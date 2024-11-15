@@ -1,0 +1,11 @@
+,Feature,accuracy,param
+0,"(6, 24)",0.7586206896551724,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 6, 24)",0.7701149425287356,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 6, 24, 25)",0.8045977011494253,"{'max_depth': 4, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 6, 12, 24, 25)",0.8045977011494253,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 6, 12, 16, 24, 25)",0.8160919540229885,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 3, 4, 6, 12, 16, 24)",0.8160919540229885,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 3, 4, 6, 12, 14, 16, 24)",0.8275862068965517,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 3, 4, 6, 12, 14, 16, 24, 25)",0.8390804597701149,"{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 2}"
+0,"(2, 3, 4, 6, 12, 14, 16, 19, 24, 25)",0.8850574712643678,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+0,"(2, 3, 4, 6, 12, 14, 16, 19, 24, 25, 26)",0.8390804597701149,"{'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}"
